@@ -1,4 +1,4 @@
-Search Enging Optimization Code Refactor
+Search Engine Optimization Code Refactor
 
 User Story
 
